@@ -1,5 +1,7 @@
 ✨ AI Content Studio Pro
 
+YOU can access the app here:https://ai-content-generator-pzxinemkcvfquzk3f7ntyj.streamlit.app/
+
 🚀 Your All-in-One AI-Powered Content Creation App for Creators, Influencers, and Agencies
 
 AI Content Studio Pro is a Streamlit-based SaaS app powered by GPT-4o, built to help creators generate viral, engaging, and niche-specific content in seconds.
